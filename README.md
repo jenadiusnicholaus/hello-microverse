@@ -27,7 +27,7 @@
 
 ## Author
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png" width="200" height=" 20" width="20" /> Jenadius Nicholaus
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png" width="20" height=" 20" /> Jenadius Nicholaus
 
 - GitHub: *[@jenadiusnicholaus](https://github.com/jenadiusnicholaus/)*.
 
@@ -35,7 +35,8 @@
 
 - LinkedIn: *[@jenadiusnicholaus](https://www.linkedin.com/in/jenadius-nicholaus-73126819b/)*.
 
-## ![Profile icons!](<https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png> "profile pic")   Contributing
+
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png" width="20" height=" 20" /> Contributing
 
  Contributions, issues, and feature requests are welcome!
 
