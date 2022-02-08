@@ -35,7 +35,7 @@
 
 - LinkedIn: *[@jenadiusnicholaus](https://www.linkedin.com/in/jenadius-nicholaus-73126819b/)*.
 
-## ![Profile icons!](<https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png> "profile pic" =100x100)   Contributing
+## ![Profile icons!](<https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png> "profile pic")   Contributing
 
  Contributions, issues, and feature requests are welcome!
 
