@@ -27,7 +27,9 @@
 
 ## Author
 
- ![Profile icons!](https://github.githubassets.com/images/icons/emoji/unicode/1f464.png "profile pic" ){:height="20px" width="20px"} Jenadius Nicholaus
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png" width="200" height="400" />
+
+ ![Profile icons!](https://github.githubassets.com/images/icons/emoji/unicode/1f464.png "profile pic" ) Jenadius Nicholaus
 
 - GitHub: *[@jenadiusnicholaus](https://github.com/jenadiusnicholaus/)*.
 
