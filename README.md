@@ -27,11 +27,7 @@
 
 ## Author
 
-```{r, out.width = '100px', out.height ='100px'}
-knitr::include_graphics('https://github.githubassets.com/images/icons/emoji/unicode/1f464.png')
-```
-
- ![Profile icons!](https://github.githubassets.com/images/icons/emoji/unicode/1f464.png "profile pic" ) Jenadius Nicholaus
+ ![Profile icons!](https://github.githubassets.com/images/icons/emoji/unicode/1f464.png "profile pic" ){width=100} Jenadius Nicholaus
 
 - GitHub: *[@jenadiusnicholaus](https://github.com/jenadiusnicholaus/)*.
 
