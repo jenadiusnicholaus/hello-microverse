@@ -1,51 +1,41 @@
 # Hello Microverse
 
-> One paragraph statement about the project.
-> This project meant to learn the best practise for creating a professional repository.
-![screenshot](./app_screenshot.png)
-.
+> This project is meant to learn the best practise for creating a professional repository.
+![screenshot](assets/hellom.png)
 
 ## Built With
 
 - Html and css
 
 ## Live Demo
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-# Get start
+[Live Demo Link](https://jenadiusnicholaus.github.io/hello-microverse/)
 
 ## Prerequisites
 
 - Html and css
 
 ## install
+
 - In your terminal type.
 
 > git clone https://github.com/jenadiusnicholaus/hello-microverse.git
+
 - Then
 
 > cd hellow-microverse
 
 ## Author
 
- ![Profile icons!](https://github.githubassets.com/images/icons/emoji/unicode/1f464.png "profile pic") Jenadius Nicholaus
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png" width="20" height=" 20" /> Jenadius Nicholaus
 
- - GitHub: *[@jenadiusnicholaus](https://github.com/jenadiusnicholaus/)*.
+- GitHub: *[@jenadiusnicholaus](https://github.com/jenadiusnicholaus/)*.
 
- - Twiter: *[@jenadius_kaim](https://twitter.com/jenadius_kaim)*.
+- Twiter: *[@jenadius_kaim](https://twitter.com/jenadius_kaim)*.
 
- - LinkedIn: *[@jenadiusnicholaus](https://www.linkedin.com/in/jenadius-nicholaus-73126819b/)*.
+- LinkedIn: *[@jenadiusnicholaus](https://www.linkedin.com/in/jenadius-nicholaus-73126819b/)*.
 
-
-
-
- https://github.githubassets.com/images/icons/emoji/unicode/1f91d.pngContributions
-
-
-
- ## ![Profile icons!](https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png "profile pic")   Contributing
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png" width="20" height=" 20" /> Contributing
 
  Contributions, issues, and feature requests are welcome!
 
@@ -58,4 +48,3 @@
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
